@@ -1,5 +1,5 @@
 <pre align="center">
-  <h1>SERGIO GEOVANY PORTILLA CASTAÑEDA</h1><hr style="margin: 10px">Full-stack Developer 
+  <h1>SERGIO GEOVANY PORTILLA CASTAÑEDA</h1>Full-stack Developer 
 </pre>
 
 <p align="left">
@@ -146,19 +146,10 @@
 
 <h2 align="center">📎 Get in touch 📎</h2>
 <br>
+
+
 [![Github Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SergioPortilla)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sergioportilla)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-geovany-portilla-casta%C3%B1eda-00108b148/)
 [![Dev.to Badge](https://img.shields.io/badge/DEV.TO-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sergioportilla)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13176347/sergio-portilla)
-
-
-
-<style>
-  h1 {
-    margin: 0;
-  }
-  li {
-    margin-bottom: 10px;
-  }
-</style>
