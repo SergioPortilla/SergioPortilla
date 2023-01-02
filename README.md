@@ -12,9 +12,9 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" alt="">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" alt="hi">
   About me 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" alt="hi">
 </h2>
 
 <p style="text-align: justify">
@@ -31,29 +31,65 @@
 - 🌱 I’m currently learning **Dart, SolidJs and Vert.x**
 - 💪 My skills are more related to the Front-end side and design
 
-<h2 align="center"> 🔥 Languages & frameworks 🔥 </h2>
+<h2 align="center"> 🔥 Some used languages, frameworks and tools 🔥 </h2>
 <br>
-<p align="center">
+<div style="width: 45%; display: inline-block">
+  <h3><code>Front-end</code></h3>
   <code><img alt="Angular" height="25" src="images/angular.svg"></code>
-  <code><img alt="Dart" height="25" src="images/dart.svg"></code>
-  <code><img alt="Docker" height="25" src="images/docker.svg"></code>
-  <code><img alt="Firebase" height="25" src="images/firebase.svg"></code>
-  <code><img alt="Flutter" height="25" src="images/flutterio.svg"></code>
-  <code><img alt="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img alt="Nest Js" height="25" src="images/nestjs.svg"></code>
   <code><img alt="Node Js" height="25" src="images/nodejs.svg"></code>
   <code><img alt="React" height="25" src="images/react.svg"></code>
   <code><img alt="Sass" height="25" src="images/sass.svg"></code>
   <code><img alt="Single-spa" height="25" src="images/single-spa.svg"></code>
   <code><img alt="TypeScript" height="25" src="images/typescript.svg"></code>
-</p>
+  <code><img alt="ngnix" height="25" src="images/NGINX.svg"></code>
+  <code><img alt="webpack" height="25" src="images/webpack.svg"></code>
+  <code><img alt="redux" height="25" src="images/redux.svg"></code>
+  <h3><code>Mobile</code></h3>
+  <code><img alt="React" height="25" src="images/react.svg"></code>
+  <code><img alt="Flutter" height="25" src="images/flutterio.svg"></code>
+  <code><img alt="Dart" height="25" src="images/dart.svg"></code>
+  <h3><code>Testing</code></h3>
+  <code><img alt="gatling" height="25" src="images/gatling.svg"></code>
+  <code><img alt="mockito" height="25" src="images/mockito.svg"></code>
+  <code><img alt="jest" height="25" src="images/jest.svg"></code>
+  <code><img alt="karma" height="25" src="images/karma.svg"></code>
+  <h3><code>Design</code></h3>
+  <code><img alt="AI" height="25" src="images/Adobe_Illustrator_CC_icon.svg"></code>
+  <code><img alt="ID" height="25" src="images/Adobe_InDesign_CC_icon.svg"></code>
+  <code><img alt="PS" height="25" src="images/Adobe_Photoshop_CC_icon.svg"></code>
+  <code><img alt="XD" height="25" src="images/Adobe_XD_CC_icon.svg"></code>
+  <code><img alt="CSP" height="25" src="images/CSP_white.svg"></code>
+  <code><img alt="Gimp" height="25" src="images/Gimp_Logo_new.svg"></code>
+  <code><img alt="figma" height="25" src="images/Figma-logo.svg"></code>
+</div>
+<div style="width: 45%; display: inline-block; vertical-align:top">
+  <h3><code>Back-end</code></h3>
+  <code><img alt="Nest Js" height="25" src="images/nestjs.svg"></code>
+  <code><img alt="Node Js" height="25" src="images/nodejs.svg"></code>
+  <code><img alt="Python" height="25" src="images/python.svg"></code>
+  <code><img alt="django" height="25" src="images/django.svg"></code>
+  <code><img alt="java" height="25" src="images/Java_Logo.svg"></code>
+  <code><img alt="vertx" height="25" src="images/Vert.x_Logo.svg"></code>
+  <code><img alt="spring" height="25" src="images/spring.svg"></code>
+  <h3><code>Databases</code></h3>
+  <code><img alt="Firebase" height="25" src="images/firebase.svg"></code>
+  <code><img alt="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img alt="oracle" height="25" src="images/oracle_logo.svg"></code>
+  <code><img alt="postgresql" height="25" src="images/postgresql-icon.svg"></code>
+  <h3><code>Devops</code></h3>
+  <code><img alt="Docker" height="25" src="images/docker.svg"></code>
+  <code><img alt="Firebase" height="25" src="images/firebase.svg"></code>
+  <code><img alt="jenkins" height="25" src="images/jenkins_color.svg"></code>
+  <code><img alt="sonar" height="25" src="images/sonarqube.svg"></code>
+  <code><img alt="github actions" height="25" src="images/git.svg"></code>
+</div>
 
 <h2 align="center"> 🛠️ Job background 🛠️ </h2>
 
-> 💡 In the overview below you will see all my background projects
+> 💡 In the overview below you'll see all my background projects
 <details>
-  <summary><h3 style="margin: 0; display: inline-block">⏱️ Fulltime projects</h3></summary>
-  <ul style="list-style: none">
+  <summary><h3 style="margin: 0; display: inline-block">⏱️ Full-time projects</h3></summary>
+  <ul>
     <li>
       <img 
         align="left"
@@ -110,9 +146,85 @@
 </details>
 <details>
   <summary><h3 style="margin: 0; display: inline-block">️📌 Freelance projects</h3></summary>
+  <ul>
+    <li>
+      <img 
+        align="left"
+        alt="Holy brand" 
+        loading="lazy" 
+        src="https://media.licdn.com/dms/image/C4E0BAQHOTVp4PmcqGA/company-logo_200_200/0/1599795338479?e=1680739200&v=beta&t=eBbrlynIbEHCN0fii0RdwudGXWnr-yZHyzeGAABDLVY" 
+        width="90px"
+      >
+      <p style="display: inline-block; margin-left: 10px">
+        <a href="https://www.linkedin.com/company/holybrands/">Holy brands</a> <br>
+        <b>Front-end developer</b> <br>
+        <b>Freelance</b> • 4 months  <br>
+        Technologies: 
+          <code>Angular</code>, <code>Redux</code>, 
+          <code>Flux</code>
+      </p>
+    </li>
+    <li>
+      <img 
+        align="left"
+        alt="Funservir" 
+        loading="lazy" 
+        src="https://media.licdn.com/dms/image/C4E0BAQFUgPYdembppg/company-logo_200_200/0/1545941700046?e=1680739200&v=beta&t=mjf-c6jahrrNxU3YmjJjDAzPGoPxjxOLZRNLMaeyd6Q" 
+        width="90px"
+      >
+      <p style="display: inline-block; margin-left: 10px">
+        <a href="https://www.linkedin.com/company/fundaci-n-social-servir/">Funservir</a> <br>
+        <b>Developer</b> <br>
+        <b>Freelance</b> • 10 months  <br>
+        Technologies: 
+          <code>Python</code>, <code>Django rest</code> 
+          <code>Angular</code> <code>Docker</code>, 
+          <code>Postgresql</code>
+      </p>
+    </li>
+  </ul>
 </details>
 <details>
   <summary><h3 style="margin: 0; display: inline-block">️🎨 Own projects</h3></summary>
+  <ul>
+    <li>
+      <img 
+        align="left"
+        alt="Rom.U" 
+        loading="lazy" 
+        src="personal_projects/Rom.U.svg" 
+        width="90px"
+      >
+      <p style="display: inline-block; margin-left: 10px">
+        <a>Rom.U</a> <br>
+        <b>Lead developer | Project manager</b> <br>
+        <b>Project</b> • 1 month  <br>
+        Technologies: 
+          <code>Stencil JS</code>, <code>Github actions</code>, 
+          <code>Firebase</code>, <code>React Native</code>,
+          <code>Nest Js</code>
+      </p>
+    </li>
+    <li>
+      <img 
+        align="left"
+        alt="EclatApp" 
+        loading="lazy" 
+        src="personal_projects/EclatApp_Square_Logo_04.svg" 
+        width="90px"
+      >
+      <p style="display: inline-block; margin-left: 10px">
+        <a href="https://eclatapp.com/">EclatApp</a> <br>
+        <b>Lead developer | Project manager</b> <br>
+        <b>Project</b> • 1 year  <br>
+        Technologies: 
+          <code>Node JS</code>, <code>Azure</code>, 
+          <code>Firebase</code>, <code>React Native</code>,
+          <code>Nest Js</code>, <code>Scala</code>,
+          <code>Gatling</code>
+      </p>
+    </li>
+  </ul>
 </details>
 
 <h2 align="center">⚡ Stats ⚡  </h2>
