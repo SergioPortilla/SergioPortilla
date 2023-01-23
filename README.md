@@ -200,9 +200,9 @@
         <b>Lead developer | Project manager</b> <br>
         <b>Project</b> • 1 month  <br>
         Technologies: 
-          <code>Stencil JS</code>, <code>Github actions</code>, 
-          <code>Firebase</code>, <code>React Native</code>,
-          <code>Nest Js</code>
+          <code>Solid js</code>, <code>Solid js</code>,
+          <code>Github actions</code>, <code>Firebase</code>,
+          <code>React Native</code>, <code>Nest Js</code>
       </p>
     </li>
     <li>
