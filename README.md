@@ -99,7 +99,7 @@
       >
       <p style="display: inline-block; margin-left: 10px">
         <a href="https://www.linkedin.com/company/id-systems-sa/">ADDI</a> <br>
-        <b>Development architect</b> <br>
+        <b>Front-end engineer II</b> <br>
         <b>Full-time</b> • 1 year  <br>
         Technologies: 
           <code>React</code>, <code>Github actions</code>, 
@@ -134,7 +134,7 @@
       >
       <p style="display: inline-block; margin-left: 2%">
         <a href="https://www.linkedin.com/company/id-systems-sa/">ID systems sa</a> (National registry of Colombia outsourcing) <br>
-        <b>Development architect</b> <br>
+        <b>Junior developer</b> <br>
         <b>Full-time</b> • 1 years  <br>
         Technologies: 
           <code>Angular</code>, <code>java</code> 
