@@ -61,8 +61,7 @@
   <code><img alt="CSP" height="25" src="images/CSP_white.svg"></code>
   <code><img alt="Gimp" height="25" src="images/Gimp_Logo_new.svg"></code>
   <code><img alt="figma" height="25" src="images/Figma-logo.svg"></code>
-</div>
-<div style="width: 45%; display: inline-block; vertical-align:top">
+
   <h3><code>Back-end</code></h3>
   <code><img alt="Nest Js" height="25" src="images/nestjs.svg"></code>
   <code><img alt="Node Js" height="25" src="images/nodejs.svg"></code>
@@ -101,7 +100,7 @@
       <p style="display: inline-block; margin-left: 10px">
         <a href="https://www.linkedin.com/company/id-systems-sa/">ADDI</a> <br>
         <b>Development architect</b> <br>
-        <b>Full-time</b> • 2 years  <br>
+        <b>Full-time</b> • 1 year  <br>
         Technologies: 
           <code>React</code>, <code>Github actions</code>, 
           <code>Java</code>, <code>Redux</code>, <code>Vertx</code>
@@ -136,7 +135,7 @@
       <p style="display: inline-block; margin-left: 2%">
         <a href="https://www.linkedin.com/company/id-systems-sa/">ID systems sa</a> (National registry of Colombia outsourcing) <br>
         <b>Development architect</b> <br>
-        <b>Full-time</b> • 2 years  <br>
+        <b>Full-time</b> • 1 years  <br>
         Technologies: 
           <code>Angular</code>, <code>java</code> 
           <code>JSP</code> <code>spring-boot</code>, <code>JSF</code>
@@ -198,7 +197,7 @@
       <p style="display: inline-block; margin-left: 10px">
         <a>Rom.U</a> <br>
         <b>Lead developer | Project manager</b> <br>
-        <b>Project</b> • 1 month  <br>
+        <b>Project</b> • 2 month  <br>
         Technologies: 
           <code>Solid js</code>, <code>Vite js</code>,
           <code>Github actions</code>, <code>Firebase</code>,
